@@ -5,6 +5,7 @@ body { font-family:poppins;}
 		  display: flex;
   flex-direction: row;
 	justify-content: space-between;
+	flex-wrap:wrap;
 }
 .item1 { color:#000; background:red; width:80px; height:80px; font-weight:600; font-size:35px;}
 .item2 { color:#000; background:blue; width:80px; height:80px; font-weight:600; font-size:35px;}
